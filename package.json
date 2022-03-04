@@ -32,7 +32,7 @@
     "jest-diff": "^24.0.0",
     "jest-matcher-utils": "^24.0.0",
     "pretty-format": "^27.3.1",
-    "ramda": "^0.26.1",
+    "ramda": "^0.27.2",
     "redent": "^2.0.0"
   },
   "devDependencies": {
